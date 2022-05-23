@@ -1,0 +1,45 @@
+              0                     1            2  ...                                          7             8              9
+0   Admin Panel                   NaN          NaN  ...                                        NaN           NaN            NaN
+1         SL NO             Date Time     Username  ...                    WAYBILL / REFERENCE NO.  Payment Mode  Delivery Mode
+2             1  Apr 01,2022 11:04:23  FCB00000142  ...   14206210005740/BOOKING CHARGES RS.. 60/-      Pre-paid       Pre-paid
+3             2  Mar 31,2022 22:03:42  FCB00000160  ...                          14206210005736/80      Pre-paid       Pre-paid
+4             3  Mar 31,2022 22:03:20  FCB00000133  ...                  14206210005725/Charges 80      Pre-paid       Pre-paid
+5             4  Mar 31,2022 12:03:33  FCB00000032  ...          14206210005681/COURIER CHARGE 200      Pre-paid       Pre-paid
+6             5  Mar 31,2022 10:03:24  FCB00000032  ...  14206210005670/COURIER BOOKING CHARGE 100           cod            COD
+7             6  Mar 30,2022 11:03:33  FCB00000114  ...                                         0/      Pre-paid            NaN
+8             7  Mar 29,2022 13:03:54  FCB00000114  ...                                         0/      Pre-paid            NaN
+9             8  Mar 29,2022 12:03:34  FCB00000032  ...                         14206210005504/100      Pre-paid       Pre-paid
+10            9  Mar 28,2022 14:03:35  FCB00000097  ...                        14206210005445/0000      Pre-paid       Pre-paid
+11           10  Mar 28,2022 12:03:01  FCB00000131  ...                                         0/      Pre-paid            NaN
+12           11  Mar 26,2022 16:03:18  FCB00000114  ...                                         0/      Pre-paid            NaN
+13           12  Mar 22,2022 16:03:43  FCB00000097  ...                          14206210005246/22      Pre-paid       Pre-paid
+14           13  Mar 21,2022 18:03:31  FCB00000079  ...                 14206210004970/SHRABANTIs1      Pre-paid       Pre-paid
+15           14  Mar 20,2022 13:03:27  FCB00000053  ...       14206210004911/Test_ignore_1 Rs225/-      Pre-paid       Pre-paid
+16           15  Mar 20,2022 12:03:35  FCB00000053  ...                                         0/      Pre-paid            NaN
+17           16  Mar 20,2022 12:03:13  FCB00000053  ...                                         0/      Pre-paid            NaN
+18           17  Mar 12,2022 10:03:52  FCB00000052  ...             14206210004686/Test_ignore_876      Pre-paid       Pre-paid
+19           18  Mar 07,2022 13:03:41   DE00000001  ...               14206210004616/Test_ignore_1      Pre-paid       Pre-paid
+20           19  Mar 07,2022 13:03:36   DE00000001  ...               14206210004605/Test_ignore_1           cod            COD
+21           20  Feb 28,2022 13:02:06   DE00000001  ...               14206210004163/Test_ignore_1      Pre-paid       Pre-paid
+22           21  Feb 26,2022 21:02:44   DE00000018  ...                                         0/      Pre-paid            NaN
+23           22  Feb 26,2022 19:02:23   DE00000001  ...            14206210004023/Test_ignore_2435           cod            COD
+24           23  Feb 26,2022 16:02:29   DE00000001  ...              14206210003986/Test_ignore_44           cod            COD
+25           24  Feb 26,2022 16:02:07   DE00000001  ...             14206210003975/Test_ignore_876           cod            COD
+26           25  Feb 26,2022 15:02:59   DE00000001  ...                  14206210003964/ignore_667           cod            COD
+27           26  Feb 26,2022 13:02:46   DE00000001  ...               14206210003953/Test_ignore_1           cod            COD
+28           27  Feb 26,2022 13:02:24   DE00000001  ...               14206210003942/Test_ignore_1           cod            COD
+29           28  Feb 26,2022 11:02:02   DE00000001  ...               14206210003920/Test_ignore_1      Pre-paid       Pre-paid
+30           29  Feb 25,2022 17:02:14   DE00000001  ...                                         0/           cod        Surface
+31           30  Feb 25,2022 16:02:42   DE00000021  ...                                         0/       prepaid        Surface
+32           31  Feb 25,2022 16:02:34   DE00000021  ...                                         0/           cod        Surface
+33           32  Feb 25,2022 13:02:30   DE00000001  ...                                         0/           cod        Surface
+34           33  Feb 25,2022 13:02:25   DE00000001  ...                                         0/           cod        Surface
+35           34  Feb 24,2022 16:02:24   DE00000017  ...          14206210003651/Test_ignore_111111           cod        Surface
+36           35  Feb 24,2022 12:02:50   DE00000017  ...               14206210003640/Test_ignore_1           cod        Surface
+37           36  Feb 22,2022 22:02:44   DE00000008  ...                 14206210003570/test_ignore       prepaid        Surface
+38           37  Feb 22,2022 21:02:26   DE00000001  ...                                         0/           NaN            NaN
+39           38  Feb 22,2022 18:02:58   DE00000001  ...              14206210003566/Test_ignore_44           cod        Surface
+40           39  Feb 22,2022 18:02:54   DE00000007  ...                        14206210003555/1234           cod        Express
+41           40  Feb 22,2022 18:02:26   DE00000001  ...              14206210003533/Test_ignore_66           cod        Surface
+
+[42 rows x 10 columns]
